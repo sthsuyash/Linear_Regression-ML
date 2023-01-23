@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simple linear regression model with one variable to predict profits for a restaurant franchise.
+This is a simple supervised linear regression model with one variable to predict profits for a restaurant franchise.
 
 ## [Open Notebook](Linear_Regression.ipynb)
 
